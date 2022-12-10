@@ -17,3 +17,14 @@ const themeWhite = () => {
 
   
 };
+
+
+document.onkeydown=()=>{
+    alert('no use F12')
+return false
+}
+
+document.oncontextmenu=()=>{
+    alert('no use click derecho')
+return false
+}
