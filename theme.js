@@ -28,3 +28,4 @@ document.oncontextmenu=()=>{
     alert('no me robe el codigo -_-')
 return false
 }
+
