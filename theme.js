@@ -19,11 +19,11 @@ const themeWhite = () => {
 };
 
 document.onkeydown=()=>{
-    alert('no use F12')
+    alert('no me robe el codigo -_-')
 return false
 }
 
 document.oncontextmenu=()=>{
-    alert('no use click derecho')
+    alert('no me robe el codigo -_-')
 return false
 }
